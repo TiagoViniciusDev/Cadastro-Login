@@ -9,7 +9,7 @@ import Login from './components/Login/Login.jsx'
 import Singup from './components/Singup/Singup.jsx'
 
 const router = createBrowserRouter([
-  {path: "/", element: <Login />},
+  {path: "/Cadastro-Login", element: <Login />},
   {path: "singup", element: <Singup />}
 ])
 
