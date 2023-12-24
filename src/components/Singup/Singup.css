@@ -1,0 +1,11 @@
+.Singup input{
+    margin-bottom: 10px;
+}
+
+.Singup .password{
+    margin-bottom: 10px;
+}
+
+.Singup .password input{
+    margin-bottom: 0;
+}
