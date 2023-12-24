@@ -1,11 +1,10 @@
 {
-  "homepage": "https://tiagoviniciusdev.github.io/LoginForm/",
+  "homepage": "https://tiagoviniciusdev.github.io/Cadrastro-Login/",
   "name": "loginform",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
