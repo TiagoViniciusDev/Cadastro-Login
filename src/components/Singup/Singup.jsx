@@ -14,7 +14,7 @@ function Singup(){
     const navigate = useNavigate()
 
     function goLogin(){
-        navigate("/")
+        navigate("/Cadastro-Login")
     }
 
     const {passwordVisibility, TogglePasswordVisibility, AlertMensage, setAlertText} = useContext(FormContext)
