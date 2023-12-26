@@ -22,7 +22,7 @@ function Login(){
     const navigate = useNavigate()
 
     function goSingUp(){
-      navigate("/singup")
+      navigate("/Cadastro-Login/singup")
     }
 
     function TryLogin(e){
