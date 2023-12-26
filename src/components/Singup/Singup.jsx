@@ -60,7 +60,7 @@ function Singup(){
         }
 
         localStorage.setItem(email, password)
-        navigate("/Cadastro-Login/")
+        goLogin()
         setAlertText("Usuário registrado com sucesso")
         AlertMensage()
     }
